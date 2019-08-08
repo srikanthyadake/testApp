@@ -10,7 +10,7 @@ namespace testApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("will be committed to git");
+            Console.WriteLine("will be committed to gits");
         }
     }
 }
